@@ -1,0 +1,7 @@
+{
+  "name": "rent-a-cheff",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
